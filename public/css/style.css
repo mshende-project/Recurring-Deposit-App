@@ -1,0 +1,23 @@
+#import input.error{
+	color: #e3342f;
+}
+
+#import label.error{
+	color: #e3342f;
+}
+
+#add-user input.error{
+	border-color: #e3342f;
+}
+
+#add-user label.error{
+	color: #e3342f;
+}
+
+#daily-collection select.error{
+	color: #e3342f;
+}
+
+#daily-collection label.error{
+	color: #e3342f;
+}
