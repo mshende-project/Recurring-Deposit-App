@@ -8,4 +8,4 @@ Laravel: "5.7"
 
 ## Setup
 * To run this project install laravel locally and clone the repository.
-* Import "rd.sql" file - exists in SQL folder of the project. 
+* Import "rd_test.sql" file - exists in SQL folder of the project. 
