@@ -7,5 +7,5 @@ RD helps people with regular incomes to deposit fixed amount every month to thei
 Laravel: "5.7"
 
 ## Setup
-* To run this project install laravel locally and clone the repository.
+* To run this project install clone repository and serve project.
 * Import "rd_test.sql" file - exists in SQL folder of the project. 
