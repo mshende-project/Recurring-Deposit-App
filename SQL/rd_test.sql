@@ -134,15 +134,7 @@ CREATE TABLE `rd_users` (
 --
 
 INSERT INTO `rd_users` (`id`, `rd_acc_no`, `name`, `address`, `dop`, `rupees`, `nominee`, `as_card_no`, `dom`, `remark_kyc`, `pan_no`, `election_card_no`, `adhar_card_no`, `mobile_no`, `dob`, `created_at`, `updated_at`, `deleted_at`) VALUES
-(1, '3003795027', 'John', 'Gadge nagar Amravati', '2014-07-26', 1000, 'Sharad S.Landage (B)', 'IMF 012116', '2019-07-26', 'NULL', 'NULL', 'NULL', 'NULL', 'NULL', '0000-00-00', '2020-06-18 17:03:27', '2020-06-18 17:03:27', NULL),
-(2, '3003796017', 'Brad', 'Friends Colony,VMV Amt', '2014-07-26', 500, 'Rahul D.Kale    (S)', 'IMF 012177', '2019-07-26', 'NULL', 'NULL', 'NULL', 'NULL', 'NULL', '0000-00-00', '2020-06-18 17:03:27', '2020-06-18 17:03:27', NULL),
-(3, '3003797441', 'Gine', 'Vitthalarpan colony,Farshi stop Amt', '2014-07-26', 600, 'Shrikant/Shushant (S)', 'IMF 012118', '2019-07-26', 'SB W/N A/c', 'NULL', 'NULL', 'NULL', 'NULL', '0000-00-00', '2020-06-18 17:03:27', '2020-06-18 17:03:27', NULL),
-(4, '3003798790', 'Thomas', 'shushil nagar Amt', '2014-07-26', 200, 'Rupraj J.Chauhan(H)', 'IMF 012119', '2019-07-26', 'NULL', 'NULL', 'NULL', 'NULL', 'NULL', '0000-00-00', '2020-06-18 17:03:27', '2020-06-18 17:03:27', NULL),
-(5, '3004800300', 'Stefan', 'Padam saurabh colony, Amt.', '2014-08-16', 1200, 'Jaya S.Bhadange (W)', 'IMF 012121', '2019-08-16', 'NULL', 'NULL', 'NULL', 'NULL', 'NULL', '0000-00-00', '2020-06-18 17:03:27', '2020-06-18 17:03:27', NULL),
-(6, '3004801000', 'Nicky', 'Snmati colony,ShegaonRd, Amt', '2014-08-16', 500, 'Uma R.Gaikwad (W)', 'IMF 012122', '2019-08-16', 'NULL', 'NULL', 'NULL', 'NULL', 'NULL', '0000-00-00', '2020-06-18 17:03:27', '2020-06-18 17:03:27', NULL),
-(7, '3004801215', 'Rick', 'Gadge Nagar, Amt', '2014-08-16', 500, 'Rekha A.Navaghare (M)', 'IMF 012123', '2019-08-16', 'NULL', 'NULL', 'NULL', 'NULL', 'NULL', '0000-00-00', '2020-06-18 17:03:27', '2020-06-18 17:03:27', NULL),
-(8, '3004802250', 'Tim', 'Kanta Nagar,  Amt (KRIBHCO)', '2014-08-16', 1000, 'Dhananjay V.Gawande(H)', 'IMF 012124', '2019-08-16', 'NULL', 'NULL', 'NULL', 'NULL', 'NULL', '0000-00-00', '2020-06-18 17:03:27', '2020-06-18 17:03:27', NULL);
-
+(1, '63772154726', 'John', 'Gadge nagar Amravati', '2014-07-26', 1000, 'TEst', 'IMF 384763', '2019-07-26', 'NULL', 'NULL', 'NULL', 'NULL', 'NULL', '0000-00-00', '2020-06-18 17:03:27', '2020-06-18 17:03:27', NULL),
 -- --------------------------------------------------------
 
 --
@@ -165,7 +157,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(1, 'Minal', 'shendeminal2011@gmail.com', NULL, '$2y$10$yy/LNMBHqxyqZg2wuodFB.hg144BZsKE79TUbubXmpVmY9djcIzfG', '7nTVFarQX2mJVELcfiqZ3UtcFJg3gYu81ebcPWMQeNCwLGsctdDXtOnjGBeP', '2020-06-18 16:55:30', '2020-06-18 16:55:30');
+(1, 'Minal', 'test@example.com', NULL, '$2y$10$yy/LNMBHqxyqZg2wuodFB.hdd144BZsKE79TUbubXmpVmY9djcIzfG', '7nTVFarQX2mJVELcfiqZ3UtcFJg3ddYu81ebcPWMQeNCwLGsctdDXtOnjGBeP', '2020-06-18 16:55:30', '2020-06-18 16:55:30');
 
 --
 -- Indexes for dumped tables
